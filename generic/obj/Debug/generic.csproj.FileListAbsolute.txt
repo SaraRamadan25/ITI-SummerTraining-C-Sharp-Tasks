@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\generic\bin\Debug\generic.exe.config
+C:\Users\dell\source\repos\generic\bin\Debug\generic.exe
+C:\Users\dell\source\repos\generic\bin\Debug\generic.pdb
+C:\Users\dell\source\repos\generic\obj\Debug\generic.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\generic\obj\Debug\generic.exe
+C:\Users\dell\source\repos\generic\obj\Debug\generic.pdb

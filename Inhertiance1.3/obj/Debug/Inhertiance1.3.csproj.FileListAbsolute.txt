@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\Inhertiance1.3\bin\Debug\Inhertiance1.3.exe.config
+C:\Users\dell\source\repos\Inhertiance1.3\bin\Debug\Inhertiance1.3.exe
+C:\Users\dell\source\repos\Inhertiance1.3\bin\Debug\Inhertiance1.3.pdb
+C:\Users\dell\source\repos\Inhertiance1.3\obj\Debug\Inhertiance1.3.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Inhertiance1.3\obj\Debug\Inhertiance1.3.exe
+C:\Users\dell\source\repos\Inhertiance1.3\obj\Debug\Inhertiance1.3.pdb
