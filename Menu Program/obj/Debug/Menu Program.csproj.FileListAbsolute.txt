@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Menu Program\bin\Debug\Menu Program.exe.config
+C:\Users\dell\source\repos\Menu Program\bin\Debug\Menu Program.exe
+C:\Users\dell\source\repos\Menu Program\bin\Debug\Menu Program.pdb
+C:\Users\dell\source\repos\Menu Program\obj\Debug\Menu Program.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Menu Program\obj\Debug\Menu Program.exe
+C:\Users\dell\source\repos\Menu Program\obj\Debug\Menu Program.pdb
+C:\Users\dell\source\repos\Menu Program\obj\Debug\Menu Program.csproj.AssemblyReference.cache

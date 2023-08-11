@@ -1,0 +1,6 @@
+C:\Users\dell\source\repos\ITI_MagicBox\bin\Debug\ITI_MagicBox.exe.config
+C:\Users\dell\source\repos\ITI_MagicBox\bin\Debug\ITI_MagicBox.exe
+C:\Users\dell\source\repos\ITI_MagicBox\bin\Debug\ITI_MagicBox.pdb
+C:\Users\dell\source\repos\ITI_MagicBox\obj\Debug\ITI_MagicBox.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ITI_MagicBox\obj\Debug\ITI_MagicBox.exe
+C:\Users\dell\source\repos\ITI_MagicBox\obj\Debug\ITI_MagicBox.pdb
