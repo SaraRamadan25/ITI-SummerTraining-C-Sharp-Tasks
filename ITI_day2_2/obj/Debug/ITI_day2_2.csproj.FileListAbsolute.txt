@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\ITI_day2_2\bin\Debug\ITI_day2_2.exe.config
+C:\Users\dell\source\repos\ITI_day2_2\bin\Debug\ITI_day2_2.exe
+C:\Users\dell\source\repos\ITI_day2_2\bin\Debug\ITI_day2_2.pdb
+C:\Users\dell\source\repos\ITI_day2_2\obj\Debug\ITI_day2_2.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ITI_day2_2\obj\Debug\ITI_day2_2.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ITI_day2_2\obj\Debug\ITI_day2_2.exe
+C:\Users\dell\source\repos\ITI_day2_2\obj\Debug\ITI_day2_2.pdb

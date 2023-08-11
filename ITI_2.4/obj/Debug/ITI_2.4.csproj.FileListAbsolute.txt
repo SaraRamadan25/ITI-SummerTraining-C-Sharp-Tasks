@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\ITI_2.4\bin\Debug\ITI_2.4.exe.config
+C:\Users\dell\source\repos\ITI_2.4\bin\Debug\ITI_2.4.exe
+C:\Users\dell\source\repos\ITI_2.4\bin\Debug\ITI_2.4.pdb
+C:\Users\dell\source\repos\ITI_2.4\obj\Debug\ITI_2.4.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ITI_2.4\obj\Debug\ITI_2.4.exe
+C:\Users\dell\source\repos\ITI_2.4\obj\Debug\ITI_2.4.pdb
+C:\Users\dell\source\repos\ITI_2.4\obj\Debug\ITI_2.4.csproj.AssemblyReference.cache
